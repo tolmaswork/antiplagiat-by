@@ -9,7 +9,12 @@
       "Bash(git commit -m 'Add deployment configs for Vercel and Railway *)",
       "Bash(where vercel *)",
       "Bash(npm install *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(vercel login *)",
+      "Bash(start https://vercel.com/new/clone?repository-url=https://github.com/tolmaswork/antiplagiat-by)",
+      "Bash(root-directory=frontend)",
+      "PowerShell(Start-Process \"https://vercel.com/new/clone?repository-url=https://github.com/tolmaswork/antiplagiat-by\")",
+      "PowerShell(Start-Process \"https://railway.app/new\")"
     ]
   }
 }
